@@ -1,6 +1,8 @@
 # Sierra-Add-Patron-demo
-Basic python script using Sierra ILS Add Patron API. the Sierra integrated library system (ILS) is a product of Innovative Intefaces.
+Basic python script using Sierra ILS Add Patron API. The Sierra integrated library system (ILS) is a product of Innovative Intefaces.
 https://www.iii.com/products/sierra-ils/
+
+The Wiki page on this repository provides specifications for the JSON patron object and mapping to Sierra patron codes.
 
 ## Usage:
 1. Replace the placeholder text SIERRA_API_KEY and SIERRA_API_KEY_SECRET
