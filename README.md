@@ -3,6 +3,7 @@ Basic python script using Sierra ILS Add Patron API. The Sierra integrated libra
 https://www.iii.com/products/sierra-ils/
 
 The Wiki page on this repository provides specifications for the JSON patron object and mapping to Sierra patron codes.
+https://github.com/cummim/Sierra-Add-Patron-demo/wiki
 
 ## Usage:
 1. Replace the placeholder text SIERRA_API_KEY and SIERRA_API_KEY_SECRET
